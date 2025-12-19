@@ -33,11 +33,6 @@ brew install tesseract
 brew install tesseract-lang
 ```
 
-或者参考项目中的安装脚本：
-
-```bash
-./install_chinese_lang.sh
-```
 
 ### 2. 安装 Python 依赖
 
